@@ -1,9 +1,6 @@
 # Building a Student Intervention System
 Supervised Learning Project
 
-## Template code
-Open the template iPython notebook student_intervention.ipynb and follow along.
-
 ## Dataset
 Attributes for student-data.csv:
 
